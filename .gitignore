@@ -3,3 +3,7 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+.DS_Store
+.idea/.idea.SystemArchitecture/.idea/copilot.data.migration.ask2agent.xml
+.idea/.idea.SystemArchitecture/.idea/indexLayout.xml
+.idea/.idea.SystemArchitecture/.idea/vcs.xml
